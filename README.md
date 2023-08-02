@@ -1,2 +1,2 @@
 # Health_assistant1
-this is php website based on real life problem where every one have to search for medicine in emergency cases so this site will help to search where the exact medicine located.
+The project I shared, "Health Assistant," was completed during my Bachelor's degree in BCA. It's a PHP-based application that addresses real-life challenges related to emergency situations and quick access to medication. The main idea is to help users find nearby medical shops that might have the required medicine without the need to visit each shop physically. Initially, I planned to use the Google Nearby API, but due to cost considerations, I used dummy data instead.
